@@ -28,7 +28,7 @@ Odpowiedź:  Wpływa to na prędkość sekwencji migania.
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
-Odpowiedź:  ...
+Odpowiedź:  Nacisniecie przycisku powoduje zbyt szybką zmianę światł dla Kierwoców.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
