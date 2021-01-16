@@ -6,14 +6,14 @@ Wersja: v1.0
 Data:   03.04.2020 r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Imię Nazwisko  
-Numer albumu:               00000  
-Grupa studencka:            WELE18X1N1
+Imię i nazwisko studenta:   Karol Troczyński 
+Numer albumu:               73012  
+Grupa studencka:            WEL18DE1N1
 
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  ...
+Odpowiedź:  Trzeba usunąć (include ) bo inaczej nie można dokonać symulacji, po usunięciu i zaczęciu SYmulacji Dioda L zaczyna świecić na zółto. 
 
 ## Zadanie 2-2-2:
 Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
