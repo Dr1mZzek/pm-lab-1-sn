@@ -24,7 +24,7 @@ Odpowiedź:   Nie każdy rodzaj pętli jest wymienny, można zastąpić jedną k
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  wpływa to na prędkość sekwnecji. 
+Odpowiedź:  Wpływa to na prędkość sekwencji migania. 
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
