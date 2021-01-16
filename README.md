@@ -16,15 +16,15 @@ Pytanie:    *Jaki jest efekt działania programu?*
 odp: Po załączniu symulacji dioda zaczyna swiecic cały czas, podczas zadania 2-2-1B dioda świeci czasowo i później się wyłącza.
 
 ## Zadanie 2-2-2:Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie ma znaczenia, wystarczy zeby zanjdował się w szerego z nią. 
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  Nie ma znaczenia, wystarczy zeby zanjdował się w szerego z nią.  
+Odpowiedź:   Nie każdy rodzaj pętli jest wymienny, można zastąpić jedną konstrukcję drugą ale nie zawsze.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
-Odpowiedź:  ...
+Odpowiedź:  wpływa to na prędkość sekwnecji. 
 
 ## Zadanie 2-3-1:
 Pytanie:    *Jakie niedogodności z punktu widzenia kierowców są obecne w programie sterującym światłami?*  
