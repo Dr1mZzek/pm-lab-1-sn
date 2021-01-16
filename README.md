@@ -13,15 +13,14 @@ Grupa studencka:            WEL18DE1N1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-Odpowiedź:  Trzeba usunąć (include ) bo inaczej nie można dokonać symulacji, po usunięciu i zaczęciu SYmulacji Dioda L zaczyna świecić na zółto. 
+odp: Po załączniu symulacji dioda zaczyna swiecic cały czas, podczas zadania 2-2-1B dioda świeci czasowo i później się wyłącza.
 
-## Zadanie 2-2-2:
-Pytanie:    *Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
+## Zadanie 2-2-2:Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
 Odpowiedź:  ...
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź:  Nie ma znaczenia, wystarczy zeby zanjdował się w szerego z nią.  
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
