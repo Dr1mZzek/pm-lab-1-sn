@@ -13,7 +13,7 @@ Grupa studencka:            WEL18DE1N1
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
-odp: Po załączniu symulacji, dioda zaczyna świecić. 
+odp: Po załączniu symulacji, dioda zaczyna świecić. W 2.2.1b dioda świeci z przerwami. 
 
 ## Zadanie 2-2-2:Czy zamienienie kolejności podłączenia diody LED i rezystora ma znaczenie?*  
 Odpowiedź:  Nie ma znaczenia, wystarczy zeby zanjdował się w szerego z nią. 
